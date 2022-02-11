@@ -15,7 +15,7 @@ Conteúdos
    * [Tecnologias](#tecnologias)  
 <!--te-->
 
-</br></br></br></br>
+</br></br>
 
 <div id="sobre"></div>
 
@@ -52,3 +52,19 @@ Conteúdos
 - [x] Lorem Ipsum
 - [x] Lorem Ipsum
 - [x] Lorem Ipsum
+
+</br></br></br>
+
+<div id="pre-requisitos"></div>
+
+# Pré-requisitos
+<p align="left">
+  <ul>
+    <li>Mysql 8</li>
+    <li>JDK 11+</li>
+    <li>Postman 7.36.1</li>
+    <li>Node 4.15.1</li>
+    <li>NPM 6.14.8</li>
+    <li>Angular CLI 9.0.7</li>
+    </ul>
+  </p>
